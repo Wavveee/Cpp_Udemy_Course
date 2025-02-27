@@ -8,9 +8,9 @@ void show_menu();
 void options_handler(vector<int>& numbers);
 void print_numbers(vector<int>& numbers);
 void add_num(vector<int>& numbers);
-void print_mean(vector<int>& numbers);
-void print_smallest(vector<int>& numbers);
-void print_largest(vector<int>& numbers);
+void print_mean( vector<int>& numbers);
+void print_smallest( vector<int>& numbers);
+void print_largest( vector<int>& numbers);
 
 int main() {
 
